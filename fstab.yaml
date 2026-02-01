@@ -1,6 +1,7 @@
 mountpoints:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -14,3 +15,6 @@ suffix:".html"
 =======
 /: https://drive.google.com/drive/folders/11t6s8I3J2ZUfdjqGMw3_ZCn0gh0hfSXG
 >>>>>>> fdc0084 (Update fstab.yaml)
+=======
+/: https://drive.google.com/drive/folders/11t6s8I3J2ZUfdJqGMw3_ZCn0gh0hfSXG
+>>>>>>> 2a7dae0 (Update fstab.yaml)
